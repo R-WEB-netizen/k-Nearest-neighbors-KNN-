@@ -62,7 +62,7 @@ Classification Report
 
 
 
-
+https://colab.research.google.com/github/R-WEB-netizen/k-Nearest-neighbors-KNN-/blob/main/knn.ipynb
 
 
 
